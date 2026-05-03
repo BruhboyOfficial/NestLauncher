@@ -1,0 +1,24 @@
+# Privacy Policy for Nest Launcher
+
+**Effective Date:** May 2, 2026
+
+Nest Launcher is built with a "Privacy First" philosophy. This policy explains how we handle your information (or, more accurately, how we don't).
+
+## 1. No Data Collection
+**Nest Launcher does not collect, store, or transmit any personal data.** 
+* We do not collect names, emails, phone numbers, or IP addresses.
+* We do not use any third-party analytics (like Firebase or Google Analytics).
+* There are no advertisements or tracking SDKs included in the app.
+
+## 2. Permissions & Data Usage
+Any permission requested by the app is used strictly for local functionality on your device:
+* **QUERY_ALL_PACKAGES:** Required to display your list of installed apps on the home screen and in the app drawer.
+* **SET_WALLPAPER:** Required to allow you to change your background image.
+* **ACCESSIBILITY_SERVICES:** (Optional) If enabled by you, this is used only for gestures (like double-tap to lock). No data is recorded or sent.
+
+## 3. Local Storage Only
+All app configurations, such as your icon layout and theme settings, are stored locally on your device. This data never leaves your phone and is removed if you uninstall the app.
+
+## 4. Contact
+Since we do not collect data, we have no user accounts to manage. For technical support, you may contact the development team at:
+**andrewstorm095@gmail.com**
